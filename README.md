@@ -1,5 +1,7 @@
 # @beings-labs/dsh-domain-manager
 
+[![Listed on dsh-plugin.org](https://dsh-plugin.org/badges/listed.svg)](https://dsh-plugin.org/plugins/beings-labs/dsh-domain-manager)
+
 A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) plugin for managing a **domain portfolio**: registrations synced from registrars, expiry dates, auto-renewal flags, yearly renewal costs, and domain availability checks.
 
 No bundled portfolio and no credentials — install it, point it at your registrars if you want syncing, and the data stays in a JSON file on your machine.
